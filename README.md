@@ -1,10 +1,10 @@
 # Networkx From KML
 
-![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/Networkx-From-KML.md)
-![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/Networkx-From-KML.md)
-![GitHub stars](https://img.shields.io/github/stars/herlanassis/Networkx-From-KML.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/herlanassis/Networkx-From-KML.md?style=social)
-![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/Networkx-From-KML.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/Networkx-From-KML)
+![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/Networkx-From-KML)
+![GitHub stars](https://img.shields.io/github/stars/herlanassis/Networkx-From-KML?style=social)
+![GitHub forks](https://img.shields.io/github/forks/herlanassis/Networkx-From-KML?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/Networkx-From-KML?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/herlanassis?style=social)
 
 Networkx From KML é um(a) `exemplo` de como `plotar figuras` para criar `grafos` utilizando locais no google maps.
