@@ -1,70 +1,65 @@
-# Nome do Projeto
+# Networkx From KML
 
-<!--- Alguns exemplos. Veja https://shields.io para outros escudos customizavéis. Convém incluir dependências, status do projeto e informações da licença aqui --->
-![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/herlanassis/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/herlanassis/README-template.md?style=social)
-![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/README-template.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/herlanassis/Networkx-From-KML.md)
+![GitHub contributors](https://img.shields.io/github/contributors/herlanassis/Networkx-From-KML.md)
+![GitHub stars](https://img.shields.io/github/stars/herlanassis/Networkx-From-KML.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/herlanassis/Networkx-From-KML.md?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/herlanassis/Networkx-From-KML.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/herlanassis?style=social)
 
-Nome do Projeto é um(a) `<utilitário/ferramenta/recurso>` que permite `<público_alvo>` fazer `<ação/tarefa>`.
+Networkx From KML é um(a) `exemplo` de como `plotar figuras` para criar `grafos` utilizando locais no google maps.
 
-Linha de informações adicionais sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler
+Para esse exemplo foi utilzado uma lista de praças da cidade de Mossoró/RN obtidos no google maps. O objetivo desse projeto é plotar um grafo de distâncias entre as praças/parques utilizando as informações de latitude e longitude presentes no arquivo KML.
+
 
 ## Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!--- Estes são apenas exemplos de requisitos. Adicione, duplique ou remova conforme necessário --->
-* Você instalou a versão mais recente do `<idioma da codificação / dependência / requisito_1>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Declare qual SO é suportado / o que não é.
-* Você leu `<guide / link / documentation_related_to_project>`.
+* A sua versão do python é superior ou igual ao `python3`?
+* Você possui alguma versão do `virtualenv` compatível com o `python3`?
 
-## Instalando <nome_projeto>
+## Instalando Networkx-From-KML
 
-Para instalar o <nome_projeto>, siga estes passos:
+Para instalar o , siga estes passos:
 
-Linux e macOS:
-```
-<comando>
+```shell
+git clone https://github.com/HerlanAssis/Networkx-From-KML;
+cd Networkx-From-KML;
 ```
 
-Windows:
-```
-<comando>
-```
-## Utilizando <nome_projeto>
+Crie e ative o seu ambiente virtual e depois execute:
 
-Para usar o <nome_projeto>, siga estes passos:
-
-```
-<exemplos_de_uso>
+```shell
+pip install -r requirements.txt
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+## Utilizando Networkx-From-KML
+
+Para usar o Networkx-From-KML, siga estes passos:
+
+```shell
+python main.py
+```
+
+Resultado:
+![Árvore geradora mínima](mst.png)
 
 ## TODO
 
-Faça um TODO List, se necessário, das próximas etapas ou do que ficou faltando nesta etapa do projeto.
-
-As próximas ações para o <nome_projeto> são:
+As próximas ações para o Networkx-From-KML são:
 
 * [x] ~~Escrever README~~
-* [ ] Escrever Testes
+* [ ] Transformar o código em uma biblioteca para uso rápido
 
-## Contribuindo para <nome_projeto>
+## Contribuindo para Networkx-From-KML
 
-<!--- Se o seu README for longo ou você tiver algum processo ou etapas específicos que você deseja que os colaboradores sigam, considere a criação de um arquivo CONTRIBUTING.md separado --->
-
-Para contribuir com <nome_projeto>, siga estes passos:
+Para contribuir com Networkx-From-KML, siga estes passos:
 
 1. Fork esse repositório.
 2. Crie uma branch: `git checkout -b <branch_name>`.
 3. Faça suas mudanças e comite para: `git commit -m '<commit_message>'`
-4. Push para a branch de origem: `git push origin <nome_projeto>/<location>`
+4. Push para a branch de origem: `git push origin Networkx-From-KML/<location>`
 5. crie um pull request.
-
-Como alternativa, consulte a documentação do GitHub em [criando uma pull request](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Contribuidores
 
@@ -72,12 +67,9 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
 
 * [@herlanassis](https://github.com/herlanassis)
 
-Você pode considerar o uso de algo como a especificação como [Todos os colaboradores](https://github.com/all-contributors/all-contributors) e sua [chave emoji] (https://allcontributors.org/docs/pt/ tecla emoji).
-
 ## Contato
 
-Se você quiser entrar em contato comigo, entre em contato com <your_email@address.com>.
+Se você quiser entrar em contato comigo, entre em contato com herlanassis@gmail.com.
 
 ## License
-<!--- Se você não tiver certeza de qual licença aberta usar, consulte https://choosealicense.com --->
-Este projeto usa a seguinte licença: [<license_name>] (<link>).
+Este projeto usa a seguinte licença: [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/#).

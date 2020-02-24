@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Praças Mossoró</name>
+	<gx:CascadingStyle kml:id="__managed_style_0E22FEDD87117F6EE236">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0740D1CEF7117F6EE229">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04A50CC0F4117F6EE227">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0740D1CEF7117F6EE229</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0E22FEDD87117F6EE236</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0129D08037117F6EE1F8">
+		<name>Parque Maurício de Oliveira</name>
+		<gx:mid>/g/11bzx21rbs</gx:mid>
+		<gx:fid>0x7ba071db37a65d5:0x3c9b5fa04b318a4c</gx:fid>
+		<LookAt>
+			<longitude>-37.3377748</longitude>
+			<latitude>-5.1931299</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.687717775764</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3377748,-5.1931299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041B348708117F6F073D">
+		<name>Porcino Park Center</name>
+		<gx:mid>/g/1216xgmp</gx:mid>
+		<gx:fid>0x7ba06d3eae0cd25:0x8818da4946de54cd</gx:fid>
+		<LookAt>
+			<longitude>-37.3465113</longitude>
+			<latitude>-5.173197399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.724871146055</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3465113,-5.173197399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0766E6F47A117F6F2F15">
+		<name>Praça do Vingt Rosado</name>
+		<gx:mid>/g/11cs38dbhc</gx:mid>
+		<gx:fid>0x7ba077a3dd7bbd9:0xe73c9bd8f603a522</gx:fid>
+		<LookAt>
+			<longitude>-37.30715120000001</longitude>
+			<latitude>-5.2018746</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.671373121617</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.30715120000001,-5.2018746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C69FBA390117F6F56EF">
+		<name>Praça UFERSA Oeste</name>
+		<gx:mid>/g/11c1_tp2dx</gx:mid>
+		<gx:fid>0x7ba0708685150cf:0x2bb5979ae017f012</gx:fid>
+		<LookAt>
+			<longitude>-37.32809359999999</longitude>
+			<latitude>-5.203796800000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.667776681688</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3280936,-5.2037968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07CFE0BF78117F6F7FB0">
+		<name>Parque da Criança</name>
+		<gx:mid>/g/11h6n4snt3</gx:mid>
+		<gx:fid>0x7ba073fae66f05f:0x9db85d6c481d6407</gx:fid>
+		<LookAt>
+			<longitude>-37.34265730000001</longitude>
+			<latitude>-5.1868233</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.699488404241</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.34265730000001,-5.186823299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00EC9664B6117F6F97EC">
+		<name>Praça da Gazeta</name>
+		<gx:mid>/g/11dymg0sr4</gx:mid>
+		<gx:fid>0x7ba06e33b480517:0x6dbe1c493848d0a0</gx:fid>
+		<LookAt>
+			<longitude>-37.3433568</longitude>
+			<latitude>-5.194971400000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.684278117177</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3433568,-5.194971400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06DBB08AFF117F6FBEE8">
+		<name>Praça da UPA do Alto de São Manoel</name>
+		<gx:mid>/g/11d_8rk6h_</gx:mid>
+		<gx:fid>0x7ba07ac5372fe8f:0x8262fcac4fd240a7</gx:fid>
+		<LookAt>
+			<longitude>-37.336896</longitude>
+			<latitude>-5.210959100000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.654364358157</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.336896,-5.2109591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06DC035D41117F6FDA82">
+		<name>Memorial da Resistência</name>
+		<gx:mid>/g/11c50q6n18</gx:mid>
+		<gx:fid>0x7ba06e4473c3b8f:0x159c977e2dd2e0c7</gx:fid>
+		<LookAt>
+			<longitude>-37.3465606</longitude>
+			<latitude>-5.1919702</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.689883306474</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3465606,-5.1919702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07423B630B117F702083">
+		<name>Praça da Convivência</name>
+		<gx:mid>/g/120xp9ww</gx:mid>
+		<gx:fid>0x7ba06d82428b943:0x7055fc6bdea676de</gx:fid>
+		<LookAt>
+			<longitude>-37.3478092</longitude>
+			<latitude>-5.1930316</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.687901351971</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3478092,-5.193031599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055A2805A9117F703567">
+		<name>Praça do Rotary</name>
+		<gx:mid>/g/11byp84d94</gx:mid>
+		<gx:fid>0x7ba06b8a7096249:0x92d64820ee79cb6</gx:fid>
+		<LookAt>
+			<longitude>-37.361603</longitude>
+			<latitude>-5.1808877</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.710553591775</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.361603,-5.1808877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F65E91062117F7056B1">
+		<name>Praça de Eventos</name>
+		<gx:mid>/g/11bwqbtc05</gx:mid>
+		<gx:fid>0x7ba06e0861bc34b:0x40f7bdb94a53f782</gx:fid>
+		<LookAt>
+			<longitude>-37.3432713</longitude>
+			<latitude>-5.187882199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.697513069589</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3432713,-5.1878822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7D11FB29117F706FA0">
+		<name>Praça das Malvinas</name>
+		<gx:mid>/g/11d_bjr3w0</gx:mid>
+		<gx:fid>0x7ba07c29d04ca15:0x72b4d9d8a94f4964</gx:fid>
+		<LookAt>
+			<longitude>-37.3187345</longitude>
+			<latitude>-5.2300111</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.618597656362</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3187345,-5.2300111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04954824D0117F7084E3">
+		<name>Praça Rodolfo Fernandes</name>
+		<gx:mid>/g/11cn3py7xs</gx:mid>
+		<gx:fid>0x7ba06e3a8b85171:0x8b2a7727bb97e5</gx:fid>
+		<LookAt>
+			<longitude>-37.34324269999999</longitude>
+			<latitude>-5.1933568</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.687294024597</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3432427,-5.1933568,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047B821000117F709F04">
+		<name>Praça do Vingt Rosado</name>
+		<gx:mid>/g/11cs38dbhc</gx:mid>
+		<gx:fid>0x7ba077a3dd7bbd9:0xe73c9bd8f603a522</gx:fid>
+		<LookAt>
+			<longitude>-37.30715120000001</longitude>
+			<latitude>-5.2018746</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.671373121617</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.30715120000001,-5.2018746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C6D9FC378117F70BA35">
+		<name>Praça da Gazeta</name>
+		<gx:mid>/g/11dymg0sr4</gx:mid>
+		<gx:fid>0x7ba06e33b480517:0x6dbe1c493848d0a0</gx:fid>
+		<LookAt>
+			<longitude>-37.3433568</longitude>
+			<latitude>-5.194971400000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.684278117177</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3433568,-5.194971400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0119F4C438117F70DA77">
+		<name>Praça do Patins Sadraque Tavares</name>
+		<gx:mid>/g/11g5_f27qy</gx:mid>
+		<gx:fid>0x7ba06e518419ee5:0x12f6721b6f98b31c</gx:fid>
+		<LookAt>
+			<longitude>-37.3485618</longitude>
+			<latitude>-5.194207899999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.685704373289</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3485618,-5.194207899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B2023B796117F70FAAF">
+		<name>Praça dos Esportes</name>
+		<gx:mid>/g/11cmt065wr</gx:mid>
+		<gx:fid>0x7ba06e53706e267:0x6899d210f6091b5d</gx:fid>
+		<LookAt>
+			<longitude>-37.349277</longitude>
+			<latitude>-5.1948332</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.684536297144</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.349277,-5.1948332,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D99BDD9B0117F711444">
+		<name>Praça da Saudade</name>
+		<gx:mid>/g/11c1xhkbcf</gx:mid>
+		<gx:fid>0x7ba06e6eeaab44f:0x401e84bbedba8a45</gx:fid>
+		<LookAt>
+			<longitude>-37.3469925</longitude>
+			<latitude>-5.189859899999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.693822676117</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3469925,-5.1898599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD2BD6739117F7239FE">
+		<name>Praça Raimundo Rubira</name>
+		<gx:mid>/g/11c1lf0qhn</gx:mid>
+		<gx:fid>0x7ba06f031ac360d:0xc931b9f445dd1f23</gx:fid>
+		<LookAt>
+			<longitude>-37.3528528</longitude>
+			<latitude>-5.1956938</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1051.682928445777</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04A50CC0F4117F6EE227</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-37.3528528,-5.1956938,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
